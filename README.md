@@ -25,6 +25,7 @@
   Phù hợp với người mới bắt đầu với SDL2, có thể phát triển về kích cỡ bàn cờ, thêm âm thanh cho từng events, đồng hồ đếm ngược thời gian cho mỗi nước đi, ... 
   ---> Trình bày code clean hơn, cách lập trình như kể chuyện, hiểu thêm về lập trình đồ họa, tự tin hơn với các dự án nhỏ .
   # 6. Quá trình làm game:
-  - Học thêm về SDL2 ở https://www.youtube.com/watch?v=k1JGvJU707k&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C, các bạn giải đáp thắc mắc.
+  - Học thêm về SDL2 ở https://www.youtube.com/watch?v=k1JGvJU707k&list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C
+  - Các bạn học giải đáp thắc mắc.
   - Tham khảo hình ảnh trên mạng, căn chỉnh, photoshop cho đúng kích cỡ cần thiết.
   # Mọi thắc mắc gửi về email : 21020128@vnu.edu.vn
