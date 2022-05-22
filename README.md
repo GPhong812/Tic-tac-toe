@@ -10,7 +10,7 @@
  - Là game cờ caro PvP với bàn 3x3, điều kiện thắng là 1 trong 2 người chơi đánh được 3 dấu thẳng hàng hoặc chéo, có thể hòa.
  # 3. Các chức năng: 
  - Có đồ họa khá bắt mắt, gameloop dễ hiểu vì bàn cờ nhỏ, không dùng thuật toán, có intro, menu start game và menu end game, có sprite cho mouse, chơi lại nhiều lần.
- 
+ - Video demo : https://youtu.be/EdtmHl80kL0
 
     ![image](https://user-images.githubusercontent.com/95665149/169675510-fa4f209b-b688-44c1-9dec-ca8fc6066e40.png) 
     ![image](https://user-images.githubusercontent.com/95665149/169675514-25cf060f-fe97-4670-bf6f-0f090664fa02.png) 
