@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647836491 source:c:\users\gia phong\downloads\sdlcode\phong.cpp
+	<iostream>
+	<SDL.h>
+
+1647836491 source:c:\users\gia phong\downloads\ltnc\sdlcode\phong.cpp
+	<iostream>
+	<SDL.h>
+
+1647837719 source:c:\users\gia phong\downloads\ltnc\sdlcode\test.c
+

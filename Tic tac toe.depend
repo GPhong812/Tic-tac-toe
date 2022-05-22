@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1653184898 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\board.cpp
+	"board.h"
+
+1653184911 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\board.h
+	<utility>
+	"SDL.h"
+
+1653184901 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\button.cpp
+	"button.h"
+
+1653184911 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\button.h
+	"texture.h"
+	"graphics.h"
+
+1653184919 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\texture.h
+	<stdio.h>
+	"SDL.h"
+	"SDL_image.h"
+
+1653184916 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\graphics.h
+	<stdio.h>
+	"SDL.h"
+	"SDL_image.h"
+
+1653184902 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\game.cpp
+	"game.h"
+
+1653184913 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\game.h
+	"graphics.h"
+	"texture.h"
+	"gameState.h"
+	"intro.h"
+	"title.h"
+	"play.h"
+	"gameOver.h"
+
+1653184914 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\gamestate.h
+	"SDL.h"
+
+1653184917 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\intro.h
+	"texture.h"
+	"gameState.h"
+
+1653184920 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\title.h
+	"gameState.h"
+	"texture.h"
+
+1653184918 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\play.h
+	"gameState.h"
+	"texture.h"
+	"board.h"
+	"graphics.h"
+	"button.h"
+
+1652712336 c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\gameover.h
+	"gameState.h"
+	"texture.h"
+
+1653184903 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\gameover.cpp
+	"gameOver.h"
+
+1653184904 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\graphics.cpp
+	"graphics.h"
+	"texture.h"
+
+1653184906 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\intro.cpp
+	"intro.h"
+
+1652702253 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\main.cpp
+	"game.h"
+	"gameState.h"
+
+1653184933 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\play.cpp
+	"play.h"
+
+1653184909 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\texture.cpp
+	"texture.h"
+	"graphics.h"
+
+1653184910 source:c:\users\gia phong\downloads\ltnc\sdlcode\tic tac toe\title.cpp
+	"title.h"
+
