@@ -2,7 +2,7 @@
  # Tic-tac-toe Game SDL2 Lập trình nâng cao INT2215 1
  - Tên sinh viên: Phạm Gia Phong
  - MSV: 21020128
- - Lớp K66CC
+ - Lớp: K66CC
  # 1. Hướng dẫn cài đặt: 
  - Tải source code ở trên rồi chạy code ở main.cpp (Codeblocks).
  - Có C++ compiler và đã tải các thư viện SDL2, SDL2_image, SDL2_ttf.
